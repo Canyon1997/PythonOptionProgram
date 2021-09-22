@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonLoopsChallenge", "PythonLoopsChallenge\PythonLoopsChallenge.pyproj", "{7D124F3D-3238-4BD3-9421-B69F1B870376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D124F3D-3238-4BD3-9421-B69F1B870376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D124F3D-3238-4BD3-9421-B69F1B870376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D99FE49-9822-4AFF-A5B8-DABCE25F48C6}
+	EndGlobalSection
+EndGlobal
